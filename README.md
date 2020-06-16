@@ -2,7 +2,7 @@
 Phần mềm quản lí order coffee và thức ăn nhẹ
 
 # Ngôn ngữ sử dụng : 
- -Laravel framework :
+ - Laravel framework :
    + Laravel là một PHP framework  mã nguồn mở và miễn phí, được phát triển bởi Taylor Otwell và nhắm vào mục tiêu hỗ trợ phát triển các ứng dụng web theo kiếm trúc model-view-controller (MVC). Những tính năng nổi bật của Laravel bao gồm cú pháp dễ hiểu – rõ ràng , một hệ thống đóng gói modular và quản lý gói phụ thuộc, nhiều cách khác nhau để truy cập vào các cơ sở dữ liệu quan hệ, nhiều tiện ích khác nhau hỗ trợ việc triển khai vào bảo trì ứng dụng.
   + Tài liệu tham khảo: https://laravel.com/
  - Html, css: 
