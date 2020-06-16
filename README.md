@@ -11,6 +11,7 @@ Nhằm tạo sự thuận tiện cho việc ăn uống tận nơi chúng tôi đ
     + Css: Trong tin học, các tập tin định kiểu theo tầng – dịch từ tiếng Anh là Cascading Style Sheets (CSS) – được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML.[1] Ngoài ra ngôn ngữ định kiểu theo tầng cũng có thể dùng cho XML, SVG, XUL. Các đặc điểm kỹ thuật của CSS được duy trì bởi World Wide Web Consortium (W3C). Thay vì đặt các thẻ quy định kiểu dáng cho văn bản HTML (hoặc XHTML) ngay trong nội dung của nó, bạn nên sử dụng CSS.
     + Tài liệu tham khảo: https://www.w3schools.com/
  - Database : MySQL
+ 
  # Giao diện DEMO: 
 - Giao diện Đăng nhập: 
 ![sigin](https://user-images.githubusercontent.com/44812898/84788712-a0ffa180-b019-11ea-834f-fd1a878f2b5b.PNG)
