@@ -16,5 +16,6 @@ Phần mềm quản lí order coffee và thức ăn nhẹ
   - Giao diện menu : 
 ![menu](https://user-images.githubusercontent.com/44812898/84787679-7bbe6380-b018-11ea-881b-8e3b93089b28.PNG)
 ![menu1](https://user-images.githubusercontent.com/44812898/84787876-af998900-b018-11ea-874e-86ee94d76011.PNG)
-
+  - Giao diện Cart:
+![cart](https://user-images.githubusercontent.com/44812898/84788184-0dc66c00-b019-11ea-9640-e5b0379912f5.PNG)
  
