@@ -12,7 +12,7 @@ Nhằm tạo sự thuận tiện cho việc ăn uống tận nơi chúng tôi đ
     + Tài liệu tham khảo: https://www.w3schools.com/
  - Database : MySQL
  
- # Giao diện DEMO: 
+# Giao diện DEMO: 
 - Giao diện Đăng nhập: 
 ![sigin](https://user-images.githubusercontent.com/44812898/84788712-a0ffa180-b019-11ea-834f-fd1a878f2b5b.PNG)
 - Giao diện Đăng kí: 
