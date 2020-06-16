@@ -11,4 +11,8 @@ Phần mềm quản lí order coffee và thức ăn nhẹ
     + Tài liệu tham khảo: https://www.w3schools.com/
  - Database : MySQL
  # Giao diện DEMO: 
+  - Giao diện chính : 
+![home](https://user-images.githubusercontent.com/44812898/84787300-05b9fc80-b018-11ea-8e72-e56862ff5614.PNG)
+
+
  
